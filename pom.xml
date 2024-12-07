@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>in.delite</groupId>
 	<artifactId>spring_a1</artifactId>
-	<version>0.0.1-release</version>
+	<version>0.0.1-snapshot</version>
 	<name>spring_a1</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
